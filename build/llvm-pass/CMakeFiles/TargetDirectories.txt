@@ -1,0 +1,12 @@
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/intrinsics_gen.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/omp_gen.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/acc_gen.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/TracePass.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/install-TracePass.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/install-TracePass-stripped.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/edit_cache.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/rebuild_cache.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/list_install_components.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/install.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/install/local.dir
+/home/igor_veto4kin/experiments/llvm_course/my_adorable_bullshit/build/llvm-pass/CMakeFiles/install/strip.dir

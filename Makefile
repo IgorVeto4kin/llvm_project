@@ -9,10 +9,6 @@ app.ll: app.c
 full.bc: start.ll sim.ll app.ll
 	llvm-link $^ -o full.bc
 
-
-
-
-
 app-opt.ll: app.c
 	clang -emit-llvm -S $^ -o $@ -O2
 app.ll: app.c
